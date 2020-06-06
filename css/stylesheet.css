@@ -8,8 +8,9 @@ h1 {
     text-align: center;
 }
 
-div#container {
-    position: relative;
+#container {
+    float: left;
+    border: 1px solid black;
 }
 
 p {
