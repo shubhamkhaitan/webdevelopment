@@ -41,8 +41,9 @@ p {
     .col-lg-4 {
         float: left;
         border: 1px solid black;
-        width: 33.33%;
+        width: 31.33%;
         background-color: gray;
+        margin: 1%;
     }
 }
 
@@ -50,8 +51,9 @@ p {
     .col-md-6 {
         float: left;
         border: 5px solid black;
-        width: 50%;
+        width: 48%;
         background-color: gray;
+        margin: 1%;
     }
 }
 
@@ -61,5 +63,6 @@ p {
         border: 1px solid black;
         width: 100%;
         background-color: gray;
+        margin: 1%;
     }
 }
