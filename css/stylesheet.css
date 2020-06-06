@@ -58,7 +58,7 @@ p {
 }
 
 @media (max-width: 797) {
-    .col-sm-12 {
+    .col-md-12, .col-sm-12 {
         float: left;
         border: 1px solid black;
         width: 100%;
